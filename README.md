@@ -30,7 +30,7 @@
 
 cd && rm -rf STECH
 
-git clone https://github.com/BaSir-404/STECH
+git clone --depth=1 https://github.com/BaSir-404/STECH
 
 cd STECH
 
